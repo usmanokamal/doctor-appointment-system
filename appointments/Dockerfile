@@ -14,3 +14,6 @@ EXPOSE 7070
 
 # Define the command to run the Flask application
 CMD ["python", "app.py"]
+
+
+#change
